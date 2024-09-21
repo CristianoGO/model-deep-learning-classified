@@ -34,6 +34,7 @@ Neste projeto, você irá desenvolver um notebook em Python onde construirá um 
     2. Configure seu ambiente de desenvolvimento virtual
     3. Altere o caminho das pastas no codigo de acordo a estrutura do seu projeto
     4. O modelo é salvo no formato Keras, será necessário converter para o formato TFLite para usar no aplicattivo android. https://github.com/CristianoGO/skin-alert-app-classification.git
+       * Na pasta fold_30 existe um arquivo chamado convert_model que ajuda a converter o modelo para o format TFLite
    
 ### Recursos utilizados na construção do modelo
 
