@@ -6,12 +6,6 @@ Neste projeto, você irá desenvolver um notebook onde construirá um classifica
 
 ### Acesso a base da dados
 
-* Browse into https://www.ibm.com/cloud/watson-studio
-* Click on 'Start your free trial'
-* Enter your email, and click 'Next'
-* Enter your Name, and choose a Password. Then click on 'Create Account'
-* Go to your email, and confirm your account.
-* Click on 'Proceed'
-* In "Select Organization and Space" form, leave everything as default, and click on 'Continue'
-* It is done. Click on 'Get started!'
+* Acesse a base pública do ISIC Challenge Datasets em https://challenge.isic-archive.com/data/#2020
+
 
