@@ -2,21 +2,35 @@
 
 ## Instruções do projeto
 
-Neste projeto, você irá desenvolver um notebook onde construirá um classificador para prever se uma imagem dermatoscópica é melanoma ou carcinoma basocelular.
+Neste projeto, você irá desenvolver um notebook em Python onde construirá um classificador para prever se uma imagem dermatoscópica é melanoma ou carcinoma basocelular.
 
 ### Acesso a base da dados
 
 * Acesse a base pública do ISIC Challenge Datasets em https://challenge.isic-archive.com/data/#2020
 * No Training Data baixe o conjunto de imagens em Download JPEG
 * No 	Training Ground Truth baixo o arquivo.csv para rotulagem das imagens
-
+  
   #### Após baixar os arquivos necessários faça a divisão das classes e rotulagem das imagens
-
   * Classes:
     1. Melanoma
     2. Carcinoma basocelular
   * Na pasta 02-label_imgs do projeto existe um arquivo chamado label_imgs que ajuda a rotular as imagens
  
-### Construção do modelo
+### Sistema operacional
 
+* Linux Ubuntu na versão 24.04.1 LTS
+ 
+### Linguagem de programação 
 
+* Python 3.0
+
+### Ambiente de desenvolvimento
+
+* Criamos um ambiente de desenvolvimento virtual no anaconda-navigator. Baixar em https://www.anaconda.com/products/navigator
+* Implementamos os códigos utiliznado o Jupyter Notebook. Baixar em https://jupyter.org/install
+  * Na pasta 01-mobileNetV2 do projeto existe o arquivo modified_mobilenetv2_30 onde está o código do projeto
+
+    #### Observações:
+    1. Instale todas as bibliotecas necessárioas para o projeto
+    2. Configure seu ambiente de desenvolvimento virtual
+    3. Altere o caminho das pastas no codigo de acordo a estrutura do seu projeto
