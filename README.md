@@ -27,7 +27,7 @@ Neste projeto, você irá desenvolver um notebook em Python onde construirá um 
 ### Ambiente de desenvolvimento
 
 * Criamos um ambiente de desenvolvimento virtual no anaconda-navigator. Baixar em https://www.anaconda.com/products/navigator
-* Implementamos os códigos utiliznado o Jupyter Notebook. Baixar em https://jupyter.org/install
+* Implementamos os códigos utilizando o Jupyter Notebook. Baixar em https://jupyter.org/install
   * Na pasta 01-mobileNetV2 do projeto existe o arquivo modified_mobilenetv2_30 onde está o código da construção e treinamento do modelo
 
     #### Observações:
