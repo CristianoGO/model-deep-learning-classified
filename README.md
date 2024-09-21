@@ -44,5 +44,10 @@ Neste projeto, você irá desenvolver um notebook em Python onde construirá um 
 ### Considerações finais
 
 * O modelo foi treinado com 30 épocas, o que pode torna o processo de treinamento demorado, mas isso vai depender das configurações do seu computador
-* Apos cada o treinamento de cada época é gerada uma matriz de confusão como na imagem abaixo:
+* Após o treinamento de cada época é gerada uma matriz de confusão como na imagem abaixo:
+  
   ![Matriz de confusão para cada fold](https://github.com/CristianoGO/model-deep-learning-classified/blob/main/coding/01-mobileNetV2/fold_30/Screenshot%20from%202024-09-21%2015-20-55.png)
+
+* Finalizado o treinamento é gerado os resultados como mostra a imagem abaixo:
+
+  ![Resultados do treinamento do modelo](https://github.com/CristianoGO/model-deep-learning-classified/blob/main/coding/01-mobileNetV2/fold_30/Screenshot%20from%202024-09-21%2015-21-19.png)
