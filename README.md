@@ -53,4 +53,4 @@ Neste projeto, você irá desenvolver um notebook em Python onde construirá um 
 
   ![Resultados do treinamento do modelo para cada fold](https://github.com/CristianoGO/model-deep-learning-classified/blob/main/coding/01-mobileNetV2/fold_30/Screenshot%20from%202024-09-21%2015-21-19.png)
 
-### Execute os codigo e segue essas orientações e faça as mudanças necessárias de acordo seu projeto para que os resultados seram obtidos.
+### Execute os codigo, segue essas orientações e faça as mudanças necessárias de acordo seu projeto para que os resultados seram obtidos.
